@@ -8,6 +8,9 @@ Tenho 20 anos e trabalho como Analista de Negócios Júnior.
 
 ### Meus principais conhecimentos
 
+| Faço com Autonomia  | Faço com Ajuda | Entendi | Ouvi Falar | 
+| ------------------- | -------------- | ------- | ---------- |
+
 #### Python
 
 Python é a linguagem de programação que eu possuo maior domínio e conhecimento, e isso se dá por conta de minhas experiências de trabalho. Através delas, pude tanto construir e consumir APIs, como também desenvolvi outros serviços, conectando aplicações, desenvolvendo lógicas de sistemas e tratando dados. 
