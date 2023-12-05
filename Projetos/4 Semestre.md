@@ -16,6 +16,8 @@ O desafio foi estipulado como desenvolver um sistema que permita a realização 
 
 Como solução, a equipe desenvolveu um software web para a empresa Embraer que permite aos usuários acessar toda a documentação de forma simples e intuitiva, através de dispositivos móveis, possibilitando o acesso manual em qualquer lugar e a qualquer hora.
 
+<img src="./Midia/embraer_aplicacao.gif" width="60%" height="55%">
+
 
 ### Tecnologias Adotadas na Solução
 
@@ -46,3 +48,24 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
 
 
 ### Aprendizados Efetivos (Soft e Hard Skills)
+
+Durante minha participação no projeto, atuando como desenvolvedor backend, obtive valiosos aprendizados que se dividem em duas categorias: habilidades interpessoais (soft skills) e habilidades técnicas (hard skills).
+
+Soft Skills (Habilidades Interpessoais):
+
+- Colaboração em equipe: Aprendizado e aperfeiçoamento na colaboração efetiva dentro de um grupo de trabalho, compreendendo a importância da contribuição conjunta para alcançar metas comuns.
+- Comunicação interpessoal: Aprimoramento das habilidades de comunicação entre os membros da equipe, garantindo uma troca clara e eficiente de informações.
+- Pensamento crítico: Desenvolvimento da capacidade de analisar e avaliar informações de maneira objetiva, resultando em decisões informadas e eficazes.
+- Resolução de problemas: Aquisição de habilidades para identificar, analisar e resolver problemas de forma eficiente, buscando soluções práticas e viáveis.
+- Gestão do tempo: Aprendizado sobre a importância da organização e do gerenciamento eficaz do tempo para maximizar a produtividade e a eficiência.
+
+Hard Skills (Habilidades Técnicas):
+
+- Desenvolvimento do Backend: Experiência significativa no desenvolvimento do backend do sistema, incluindo o mapeamento de classes para eficiente interação com a base de dados.
+- Arquitetura em Camadas: Implementação e compreensão da arquitetura em camadas, definindo com clareza Entidades, Controladores, Serviços e Repositórios para uma estrutura organizacional coesa.
+- Funcionalidades de Busca: Desenvolvimento de filtros de pesquisa para uma visualização precisa e intuitiva dos dados, melhorando a experiência do usuário no sistema.
+- Manutenção e Melhorias Contínuas: Responsabilidade pela manutenção constante do código backend, realizando ajustes e implementando melhorias alinhadas com as necessidades da equipe e do cliente.
+
+O projeto, que teve como objetivo principal criar um sistema para acesso simplificado à documentação de aeronaves para pilotos e proprietários, me proporcionou uma ampla gama de aprendizados efetivos, tanto no âmbito técnico quanto no desenvolvimento de habilidades interpessoais essenciais para o sucesso do trabalho em equipe e na entrega de um sistema funcional e eficaz para a empresa Embraer.
+
+Estas habilidades adquiridas tanto no aspecto interpessoal quanto no técnico foram fundamentais para contribuir de forma eficaz no projeto, resultando em um sistema funcional e alinhado com os objetivos da empresa Embraer.
