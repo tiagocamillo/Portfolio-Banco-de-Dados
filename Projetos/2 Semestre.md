@@ -12,15 +12,33 @@ Dom Rock
 
 ### Visão do Projeto
 
-O desafio consiste em desenvolver uma solução na gestão de ativação do cliente na plataforma Dom Rock.
+O desafio é criar um sistema para gerenciar a ativação dos clientes na plataforma Dom Rock. Essa solução deve permitir a entrada de parâmetros específicos de cada cliente, alocar recursos, realizar estimativas de consumo, gerar relatórios e ter uma base de dados preparada para integrações futuras.
 
-A empresa busca uma solução que seja orientada a entrada de dados de parâmetros e variáveis de cada cliente para alocar recursos na plataforma Dom Rock, entrada de dados e estimativa de consumo de recursos (baseado em volume de dados de cliente, quantidade de usuários e outros) e gere relatórios e consultas, mas, principalmente, tenha a base de dados modelada adequadamente para futuras integrações com outros sistemas.
+A Fluffy API desenvolveu o Sistema de Gerenciamento de Clientes - Dom Rock, uma aplicação desktop em Java. Ele possibilita o cadastro, armazenamento e edição dos dados dos clientes, gera relatórios, registra logs e oferece diferentes níveis de acesso para maior segurança dos dados. Essa solução visa proporcionar uma gestão abrangente e segura para a ativação e administração dos clientes na plataforma Dom Rock.
 
-A Fluffy API desenvolveu o Sistema de Gerenciamento de Clientes - Dom Rock, uma aplicação desktop desenvolvida em Java utilizando um banco relacional para cadastrar e armazenar o dados do briefing dos clientes.
+<img src="./Midia/domrock_aplicacao.gif" width="60%" height="55%">
 
-Além de cadastrar, também ira possuir a função de consulta, edição, relatórios, logs e exportação. Não esquecendo dos usuários com níveis de acessos definidos para maior segurança dos dados na plataforma.
 
 ### Tecnologias Adotadas na Solução
+
+#### Java
+
+A linguagem Java foi utilizada em todo o back-end da aplicação. Foram desenvolvidas, com a linguagem, diversas funcionalidades da aplicação, como a configuração da lógica para a utilização dos dados armazenados no banco de dados, a configuração de todos os dados do sistema para que os eles possam ser consumidos pelo front-end, como também toda a arquitetura presente, e a segurança da aplicação via nível de acesso.  
+
+Para saber mais, acesse: [Java](https://www.java.com)
+
+#### JavaFX Scene Builder Archive
+
+O JavaFX Scene Builder é uma ferramenta de design visual desenvolvida pela Oracle para criar interfaces gráficas de usuário (GUIs) para aplicativos JavaFX. Com ela foi efetuada a utilização dos dados enviados do back-end para o front-end, desenvolvendo telas para a movimentação dos dados, como inserção, deleção, atualização e visualização. Toda a interface do projeto foi desenvolvida pensando na dinâmica do fluxo do projeto e buscando uma forma prática e objetica de utilização.
+
+Para saber mais, acesse: [JavaFX Scene Builder Archive](https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html)
+
+#### SQL Server Nuvem Azure
+
+O SQL Server no Azure é a versão do Microsoft SQL Server que é executada na nuvem da Microsoft, conhecida como Microsoft Azure. Ela que foi utilizada para o armazenamento dos dados da aplicação. Com ele, foram feitas as criações de tabelas, views e triggers, e era feito o gerenciamento dos dados.
+
+Para saber mais, acesse: [SQL Server Nuvem Azure](https://azure.microsoft.com/pt-br/products/azure-sql/database/)
+
 
 ### Contribuições Pessoais
 
