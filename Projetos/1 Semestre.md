@@ -34,63 +34,23 @@ Para saber mais, acesse: [Telegram Bots](https://core.telegram.org/bots)
 
 ### Contribuições Pessoais
 
-Fui responsável pelo desenvolvimento do aplicativo web programado em Python usando o framework Dash, buscando oferecer uma interface interativa para análise de dados relacionados à pandemia de COVID-19 no Estado de São Paulo.
+Desenvolvi um aplicativo web dedicado à análise dos dados da pandemia de COVID-19 em São Paulo. Utilizei Python e o framework Dash para criar uma interface interativa e informativa. O processo envolveu desde o pré-processamento dos dados CSV com Pandas até a implementação de gráficos variados e funcionalidades interativas, como filtros de dados e seleção de municípios.
 
-pré-processamento de dados a partir de arquivos CSV sobre COVID-19 e população usando Pandas.
-Criação de Gráficos e Layout do Aplicativo:
+O aplicativo oferece uma experiência responsiva aos usuários, com Dash Bootstrap Components garantindo um design intuitivo e adaptável. Funcionalidades como filtragem de dados em tabelas e atualização dinâmica de gráficos permitem uma análise detalhada da situação epidemiológica.
 
-criar diversos tipos de gráficos, como barras, pizza, linhas e dispersão, representando estatísticas relacionadas a casos de COVID-19, óbitos, vacinação, etc.
-Desenvolve o layout da interface usando Dash Bootstrap Components para criar um design responsivo com elementos visuais como cabeçalho, filtros de data, seleção de municípios, entre outros.
-Funcionalidades Interativas:
-
-Oferece recursos de filtragem, classificação e seleção de colunas em uma tabela interativa com dados detalhados sobre a COVID-19 em diferentes localidades.
-
-
-Fornece gráficos dinâmicos e estatísticas atualizadas com base nas seleções feitas pelo usuário.
-
-Define o estilo visual da aplicação, incluindo cores, layouts e posicionamento dos elementos na página.
-Utiliza marcações de texto (Markdown) para destacar títulos e subtítulos em diferentes seções da interface.
-
-Em resumo, o aplicativo Dash oferece uma plataforma interativa para visualização e análise dos dados relacionados à pandemia de COVID-19 em São Paulo, permitindo aos usuários explorar estatísticas, gráficos e informações detalhadas, além de interagir com a interface para obter uma visão abrangente da situação epidemiológica.
-
-
-```python
-# Pré Processamentos de Dados
-df_tratado = pd.read_csv("docs/df_tratado.csv")
-df_vacinastratado = pd.read_csv("docs/df_vacinastratado.csv")
-df_estadotratado = pd.read_csv("docs/df_estadotratado.csv")
-df_vacinas = pd.read_csv("docs/vacinas.csv", sep=';')
-df_vacinas = df_vacinas.rename(
-    columns={'Município': 'nome_munic'})
-list_municipios = sorted(df_tratado['nome_munic'].unique()) #formatação de municipios
-date_column = df_tratado["datahora"]
-max = date_column.max()
-row = df_tratado.loc[df_tratado["datahora"] == max]
-df_vacinastratadonotpop = df_vacinastratado.drop(columns=['pop'])
-df_totais = pd.merge(row,df_vacinastratadonotpop, how='inner', on='nome_munic')
-df_totais = df_totais.drop(
-    columns=['Unnamed: 0_x', 'Unnamed: 0_y'])
-df_tratado_rename = df_totais.rename(
-                columns={'nome_munic': 'Localização', 'casos': 'Casos Acumulados', 'datahora': 'Data da Atualização',
-                         'obitos': "Óbitos Acumulados","pop": "População","doseunica":"Dose Unica","primeiradose":"Primeira Dose",
-                         "segundadose":"Segunda Dose","terceiradose":"Terceira Dose"})
-df_tratado_rename = df_tratado_rename.reindex(
-                columns=['Localização', 'Casos Acumulados', 'Óbitos Acumulados','Dose Unica','Primeira Dose','Segunda Dose','Terceira Dose','População', 'Data da Atualização'])
-
-casosacumulados = df_tratado_rename["Casos Acumulados"].sum()
-obitossacumulados = df_tratado_rename["Óbitos Acumulados"].sum()
-doseunica = df_tratado_rename["Dose Unica"].sum()
-primeiradose = df_tratado_rename["Primeira Dose"].sum()
-segundadose = df_tratado_rename["Segunda Dose"].sum()
-terceiradose = df_tratado_rename["Terceira Dose"].sum()
-populacao = df_tratado_rename["População"].sum()
-data = df_tratado_rename['Data da Atualização'].max()
-df_tratado_rename = df_tratado_rename.append(dict(zip(df_tratado_rename.columns, ['ESTADO DE SÃO PAULO', casosacumulados,obitossacumulados,doseunica,primeiradose,segundadose,terceiradose,populacao,data])),ignore_index=True)
-list_tabela=['ESTADO DE SÃO PAULO','SÃO PAULO', 'GUARULHOS', 'CAMPINAS', 'SÃO BERNARDO DO CAMPO', 'SÃO JOSÉ DOS CAMPOS', 'SANTO ANDRÉ']
-list_municipios2 = sorted(df_tratado_rename['Localização'].unique())
-```
+Esse aplicativo proporciona uma plataforma completa para visualização e análise dos dados da COVID-19 em São Paulo. Com sua interface interativa e funcionalidades avançadas, os usuários podem explorar estatísticas atualizadas e informações detalhadas, auxiliando na compreensão e na tomada de decisões informadas sobre a pandemia.
 
 
 ### Aprendizados Efetivos (Soft e Hard Skills)
 
+#### Hard Skills
 
+- Python
+- Pandas
+- Plotly
+
+#### Soft Skills
+
+- Comunicação
+- Resolução de problemas
+- Trabalho em equipe
