@@ -18,6 +18,8 @@ Como solução, a equipe desenvolveu um software web para a empresa, que possibi
 
 O sistema possui uma automação da extração dos dados diretamente da base de dados do Governo de São Paulo, onde eram disponibilizados os dados referente a pandemia. Como também possui um bot desenvolvido no site Telegram.org que é responsável por disponibilizar informações do sistema de forma mais prática e dinâmica para o usuário. 
 
+<img src="./Midia/spanel_aplicacao.png" width="60%" height="55%">
+
 ### Tecnologias Adotadas na Solução
 
 #### Python
@@ -41,7 +43,7 @@ O aplicativo oferece uma experiência responsiva aos usuários, com Dash Bootstr
 Esse aplicativo proporciona uma plataforma completa para visualização e análise dos dados da COVID-19 em São Paulo. Com sua interface interativa e funcionalidades avançadas, os usuários podem explorar estatísticas atualizadas e informações detalhadas, auxiliando na compreensão e na tomada de decisões informadas sobre a pandemia.
 
 
-### Aprendizados Efetivos (Soft e Hard Skills)
+### Aprendizados Efetivos (Hard e Soft Skills)
 
 #### Hard Skills
 

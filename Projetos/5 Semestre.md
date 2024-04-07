@@ -51,5 +51,5 @@ No período do projeto, para efetuar essas ações, utilizei as ferramentas:
 
 
 
-### Aprendizados Efetivos (Soft e Hard Skills)
+### Aprendizados Efetivos (Hard e Soft Skills)
 
