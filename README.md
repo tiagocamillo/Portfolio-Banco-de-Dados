@@ -1,5 +1,9 @@
 # Portfólio Tiago Camillo
 
+<p align="center">
+  <img src="./Midia/TiagoCamillo.jpg" width="20%">
+</p>
+
 ## Introdução
 
 Olá, seja bem-vindo! Sou o Tiago Camillo, estudante de Banco de Dados pela FATEC São José dos Campos - Prof. Jessen Vidal.

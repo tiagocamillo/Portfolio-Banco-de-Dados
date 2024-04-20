@@ -42,4 +42,16 @@ Para saber mais, acesse: [SQL Server Nuvem Azure](https://azure.microsoft.com/pt
 
 ### Contribuições Pessoais
 
-### Aprendizados Efetivos (Soft e Hard Skills)
+### Aprendizados Efetivos (Hard e Soft Skills)
+
+#### Hard Skills
+
+- Python
+- Pandas
+- Plotly
+
+#### Soft Skills
+
+- Comunicação
+- Resolução de problemas
+- Trabalho em equipe
