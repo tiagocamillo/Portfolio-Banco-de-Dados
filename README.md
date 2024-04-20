@@ -1,7 +1,7 @@
 # Portfólio Tiago Camillo
 
 <p align="center">
-  <img src="./Midia/TiagoCamillo.jpg" width="20%">
+  <img src="./Projetos/Midia/TiagoCamillo.jpg" width="20%">
 </p>
 
 ## Introdução
