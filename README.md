@@ -21,13 +21,12 @@ Atualmente trabalho como Analista de Negócios Júnior na Algar Tech, onde sou r
 
 ---
 
-## Projetos durante a graduação
+## Projetos Desenvolvidos
 
 O Projeto Integrador tem o objetivo de solucionar um problema da realidade, trazido por alguma empresa em acordo com a entidade de ensino, utilizando os conhecimentos adquiridos durante a graduação.
 
-Abaixo estão listados os projetos desenvolvidos durante a graduação, detalhando o problema, solução proposta (e entregue), e os aprendizados extraídos dele.
+Abaixo estão listados os projetos desenvolvidos durante a graduação, detalhando o problema, solução proposta (e entregue), e os aprendizados extraídos dele:
 
-### Projetos Desenvolvidos 
 
 [1º Semestre - SPANEL - Sistema de Automação e Visualização de Dados da COVID-19 ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
 

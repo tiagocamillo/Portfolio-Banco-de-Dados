@@ -2,15 +2,15 @@
 
 <img src="https://github.com/fluffyfatec/SPanel/blob/main/Sprint_2/assets/logospanel3.png" width="60%" height="55%">
 
-### Reposiório do Projeto
+## Reposiório do Projeto
 
 [SPANEL - Fluffy Fatec](https://github.com/fluffyfatec/SPanel)
 
-### Parceiro Acadêmico
+## Parceiro Acadêmico
 
 Interno
 
-### Visão do Projeto
+## Visão do Projeto
 
 Com intuito de melhorar e facilitar o acesso aos números da COVID-19 disponibilizados pelo Estado de São Paulo, a Fluffy está, a pedido de um cliente, desenvolvendo o SPanel, um painel virtual que reúne os principais dados da pandemia em uma interface única e de fácil utilização.
 
@@ -20,21 +20,21 @@ O sistema possui uma automação da extração dos dados diretamente da base de 
 
 <img src="./Midia/spanel_aplicacao.png" width="60%" height="55%">
 
-### Tecnologias Adotadas na Solução
+## Tecnologias Adotadas na Solução
 
-#### Python
+### Python
 
 A linguagem Python foi utilizada para o desenvolvimento do projeto ao todo. Com ela, foi feita a automação da extração dos dados disponibilizados no [site do Governo de São Paulo](https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/), o tratamento desses dados para a utilização no sistema (que foram gerenciados em arquivos CSVs), e a interface do sistema web para a visualização dos dados pelo usuário.
 
 Para saber mais, acesse: [Python](https://www.python.org)
 
-#### Telegram Bots
+### Telegram Bots
 
 A ferramenta Telegram Bots foi utilizada para o desenvolvimento de um bot na própria plataforma do Telegram que ficou responsável por fornecer uma forma prática de visualição dos dados já tratados pelo sistema.
 
 Para saber mais, acesse: [Telegram Bots](https://core.telegram.org/bots)
 
-### Contribuições Pessoais
+## Contribuições Pessoais
 
 Desenvolvi um aplicativo web dedicado à análise dos dados da pandemia de COVID-19 em São Paulo. Utilizei Python e o framework Dash para criar uma interface interativa e informativa. O processo envolveu desde o pré-processamento dos dados CSV com Pandas até a implementação de gráficos variados e funcionalidades interativas, como filtros de dados e seleção de municípios.
 
@@ -43,16 +43,60 @@ O aplicativo oferece uma experiência responsiva aos usuários, com Dash Bootstr
 Esse aplicativo proporciona uma plataforma completa para visualização e análise dos dados da COVID-19 em São Paulo. Com sua interface interativa e funcionalidades avançadas, os usuários podem explorar estatísticas atualizadas e informações detalhadas, auxiliando na compreensão e na tomada de decisões informadas sobre a pandemia.
 
 
-### Aprendizados Efetivos (Hard e Soft Skills)
+## Aprendizados Efetivos 
 
-#### Hard Skills
+### Hard Skills
 
-- Python
-- Pandas
-- Plotly
+<table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+    <tr>
+      <td>Pandas</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+    <tr>
+      <td>Plotly</td>
+      <td>Entendi</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+    <tr>
+      <td>GIT</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+</table>
 
-#### Soft Skills
 
-- Comunicação
-- Resolução de problemas
-- Trabalho em equipe
+### Soft Skills
+
+<table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
+    </tr>
+    <tr>
+      <td>Resolução de Problemas</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+    </tr>
+</table>
+
