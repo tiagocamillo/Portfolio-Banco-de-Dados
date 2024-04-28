@@ -1,38 +1,39 @@
-# Portfólio Tiago Camillo
+# Portfólio de APIs - Tiago Camillo
 
-## Introdução
+Trabalho de Graduação na modalidade Portfólio desenvolvido a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, sendo parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.
 
-Olá, seja bem-vindo! Sou o Tiago Camillo, estudante de Banco de Dados pela FATEC São José dos Campos - Prof. Jessen Vidal.
+---
 
-Tenho 20 anos e trabalho como Analista de Negócios Júnior.
+## Sobre Mim
 
-### Meus principais conhecimentos
+Sou Tiago Camillo, tenho 20 anos e atualmente estou cursando o 6º semestre como estudante de Banco de Dados pela FATEC São José dos Campos - Prof. Jessen Vidal. 
 
-| Faço com Autonomia  | Faço com Ajuda | Entendi | Ouvi Falar | 
-| ------------------- | -------------- | ------- | ---------- |
+Possuo formação como Técnico em Informática pelo Colégios Univap - Unidade Centro (São José dos Campos) o qual conclui em 2020 e, após isso, iniciei minha graduação como Tecnologo no 2º Semestre de 2021.
 
-#### Python
+Possuo experiências na área de TI trabalhando como Desenvolvedor Backend, desenvolvendo projetos utilizando a linguagem Python junto com o framework Django. Também fiz parte do desenvolvimento e administração de banco de dados com o sistema gerenciador de banco de dados PostgreSQL.
 
-Python é a linguagem de programação que eu possuo maior domínio e conhecimento, e isso se dá por conta de minhas experiências de trabalho. Através delas, pude tanto construir e consumir APIs, como também desenvolvi outros serviços, conectando aplicações, desenvolvendo lógicas de sistemas e tratando dados. 
+Atualmente trabalho como Analista de Negócios Júnior na Algar Tech, onde sou responsável por desenvolver soluções e automações de processos via Power Plataform (Microsoft) e utilizando Python para soluções backend.
 
-#### Java
 
-Tenho utilizado a linguagem de programação Java durante todo o meu tempo de graduação. Ainda não desenvolvi com essa linguagem para o ambiente profissional, no entanto, durante esses anos de estudo, tenho desenvolvido diversas soluções em Java, o que me traz conhecimento sobre essa linguagem.
+<p align="center">
+  <img src="./Projetos/Midia/TiagoCamillo.jpg" width="20%">
+</p>
 
-#### Projetos durante a graduação
+---
 
-Projeto Integrador tem o objetivo de solucionar um problema da realidade, trazido por alguma empresa em acordo com a entidade de ensino, utilizando os conhecimentos adquiridos durante a graduação.
+## Projetos Desenvolvidos
 
-Abaixo estão listados os projetos desenvolvidos durante a graduação, detalhando o problema, solução proposta (e entregue), e os aprendizados extraídos dele.
+O Projeto Integrador tem o objetivo de solucionar um problema da realidade, trazido por alguma empresa em acordo com a entidade de ensino, utilizando os conhecimentos adquiridos durante a graduação.
 
-### Sumário
+Abaixo estão listados os projetos desenvolvidos durante a graduação, detalhando o problema, solução proposta (e entregue), e os aprendizados extraídos dele:
 
-[Projeto 1 - SPANEL](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
 
-[Projeto 2 - Dom Rock](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
+[1º Semestre - SPANEL - Sistema de Automação e Visualização de Dados da COVID-19 ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
 
-[Projeto 3 - Iacit](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/3%20Semestre.md)
+[2º Semestre - Dom Rock - Sistema de Gerenciamento de Clientes](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
 
-[Projeto 4 - Embraer](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
+[3º Semestre - Iacit - Automação e Dashboard de Dados Meteorológicos](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/3%20Semestre.md)
 
-[Projeto 5 - Oracle](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
+[4º Semestre - Embraer - Controle de Configuração de Aeronaves](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
+
+[5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
