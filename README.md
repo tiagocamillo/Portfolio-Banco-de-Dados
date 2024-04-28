@@ -16,7 +16,7 @@ Atualmente trabalho como Analista de Negócios Júnior na Algar Tech, onde sou r
 
 
 <p align="center">
-  <img src="./Projetos/Midia/TiagoCamillo.jfif" width="20%">
+  <img src="./Projetos/Midia/TiagoCamillo.jpg" width="20%">
 </p>
 
 ---

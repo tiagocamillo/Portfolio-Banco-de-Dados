@@ -2,13 +2,16 @@
 
 <img src="https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png" width="60%" height="55%">
 
+
 ## Reposiório do Projeto
 
 [Embraer - Octopus](https://github.com/octopusBD/apiEmbraer4-sem)
 
+
 ## Parceiro Acadêmico
 
 Embraer
+
 
 ## Visão do Projeto
 
@@ -85,7 +88,6 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <td>Sei fazer com Ajuda</td>
     </tr>
 </table>
-
 
 <h3 align="center"> Soft Skills </h3>
 

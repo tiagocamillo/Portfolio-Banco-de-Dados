@@ -2,13 +2,16 @@
 
 <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/cabecario (3).jpg" width="60%" height="55%">
 
+
 ## Reposiório do Projeto
 
 [IACIT - Fluffy Fatec](https://github.com/fluffyfatec/Iacit)
 
+
 ## Parceiro Acadêmico
 
 IACIT Soluções Tecnológicas
+
 
 ## Visão do Projeto
 
@@ -47,6 +50,7 @@ O SGDB (Sistema Gerenciador de Banco de Dados) PostgreSQL foi utilizado para o a
 
 Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
 
+
 ## Contribuições Pessoais
 
 Fui responsável pelo desenvolvimento do front-end do projeto de sistema para importação de dados meteorológicos. Minha principal função consistiu em criar uma interface intuitiva e funcional para os usuários, utilizando os dados fornecidos pelo back-end por meio de APIs.
@@ -56,6 +60,7 @@ Trabalhando em colaboração com a equipe de front-end, participei ativamente do
 Para realizar essas tarefas, utilizei linguagens e tecnologias como HTML, CSS e JavaScript. A marcação HTML e a estilização em CSS foram essenciais para a criação de layouts atraentes e responsivos. A parte lógica da aplicação foi desenvolvida principalmente em JavaScript, aproveitando técnicas como AJAX para melhorar a interatividade e a eficiência da aplicação.
 
 Ao focar na geração de gráficos, exibição de tabelas e implementação de filtros dinâmicos, ajudei a criar uma aplicação que permite aos usuários explorar e entender os dados meteorológicos de forma intuitiva e personalizada.
+
 
 ## Aprendizados Efetivos
 
@@ -99,7 +104,6 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
       <td>Sei fazer com Ajuda</td>
     </tr>
 </table>
-
 
 <h3 align="center"> Soft Skills </h3>
 

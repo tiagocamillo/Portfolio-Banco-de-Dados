@@ -2,13 +2,16 @@
 
 <img src="https://github.com/fluffyfatec/Dom_Rock/blob/main/GIT/cabecario2.jpg" width="60%" height="55%">
 
+
 ## Reposiório do Projeto
 
 [Dom Rock - Fluffy Fatec](https://github.com/fluffyfatec/Dom_Rock)
 
+
 ## Parceiro Acadêmico
 
 Dom Rock
+
 
 ## Visão do Projeto
 
@@ -75,7 +78,6 @@ No frontend, participei ativamente da criação e dos ajustes das telas, garanti
       <td>Sei fazer com Ajuda</td>
     </tr>
 </table>
-
 
 <h3 align="center"> Soft Skills </h3>
 

@@ -2,13 +2,16 @@
 
 <img src="https://github.com/fluffyfatec/SPanel/blob/main/Sprint_2/assets/logospanel3.png" width="60%" height="55%">
 
+
 ## Reposiório do Projeto
 
 [SPANEL - Fluffy Fatec](https://github.com/fluffyfatec/SPanel)
 
+
 ## Parceiro Acadêmico
 
 Interno
+
 
 ## Visão do Projeto
 
@@ -19,6 +22,7 @@ Como solução, a equipe desenvolveu um software web para a empresa, que possibi
 O sistema possui uma automação da extração dos dados diretamente da base de dados do Governo de São Paulo, onde eram disponibilizados os dados referente a pandemia. Como também possui um bot desenvolvido no site Telegram.org que é responsável por disponibilizar informações do sistema de forma mais prática e dinâmica para o usuário. 
 
 <img src="./Midia/spanel_aplicacao.png" width="60%" height="55%">
+
 
 ## Tecnologias Adotadas na Solução
 
@@ -34,6 +38,7 @@ A ferramenta Telegram Bots foi utilizada para o desenvolvimento de um bot na pr�
 
 Para saber mais, acesse: [Telegram Bots](https://core.telegram.org/bots)
 
+
 ## Contribuições Pessoais
 
 Desenvolvi um aplicativo web dedicado à análise dos dados da pandemia de COVID-19 em São Paulo. Utilizei Python e o framework Dash para criar uma interface interativa e informativa. O processo envolveu desde o pré-processamento dos dados CSV com Pandas até a implementação de gráficos variados e funcionalidades interativas, como filtros de dados e seleção de municípios.
@@ -41,6 +46,7 @@ Desenvolvi um aplicativo web dedicado à análise dos dados da pandemia de COVID
 O aplicativo oferece uma experiência responsiva aos usuários, com Dash Bootstrap Components garantindo um design intuitivo e adaptável. Funcionalidades como filtragem de dados em tabelas e atualização dinâmica de gráficos permitem uma análise detalhada da situação epidemiológica.
 
 Esse aplicativo proporciona uma plataforma completa para visualização e análise dos dados da COVID-19 em São Paulo. Com sua interface interativa e funcionalidades avançadas, os usuários podem explorar estatísticas atualizadas e informações detalhadas, auxiliando na compreensão e na tomada de decisões informadas sobre a pandemia.
+
 
 ## Aprendizados Efetivos 
 
