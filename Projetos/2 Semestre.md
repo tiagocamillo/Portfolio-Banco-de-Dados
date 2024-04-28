@@ -42,11 +42,12 @@ Para saber mais, acesse: [SQL Server Nuvem Azure](https://azure.microsoft.com/pt
 
 ## Contribuições Pessoais
 
-Desenvolvi um aplicativo web dedicado à análise dos dados da pandemia de COVID-19 em São Paulo. Utilizei Python e o framework Dash para criar uma interface interativa e informativa. O processo envolveu desde o pré-processamento dos dados CSV com Pandas até a implementação de gráficos variados e funcionalidades interativas, como filtros de dados e seleção de municípios.
+Nesse projeto pude colaborar com a equipe desenvolvendo tanto para funções backend, como também para frontend. Ao desenvolver esse sistema de gerenciamento de ativação de clientes, utilizei a linguagem Java para questões de backend do projeto, sendo elas: lógica do sistema, mapeamento de tabelas, conexão com a base de dados. E para o frontend, foi utilizada a tecnologia JavaFX, onde foram feitas as telas do sistema, com suas lógicas e designs.
 
-O aplicativo oferece uma experiência responsiva aos usuários, com Dash Bootstrap Components garantindo um design intuitivo e adaptável. Funcionalidades como filtragem de dados em tabelas e atualização dinâmica de gráficos permitem uma análise detalhada da situação epidemiológica.
+No âmbito do desenvolvimento backend, colaborei na implementação da conexão DAO (Data Access Object), contribuindo para a estruturação e organização do acesso aos dados do sistema. Além disso, auxiliei na configuração e elaboração da lógica do sistema, garantindo uma implementação coesa e eficiente das funcionalidades. Também participei ativamente da configuração de DTO (Data Transfer Object), facilitando a comunicação e a transferência de dados entre as diferentes camadas da aplicação.
 
-Esse aplicativo proporciona uma plataforma completa para visualização e análise dos dados da COVID-19 em São Paulo. Com sua interface interativa e funcionalidades avançadas, os usuários podem explorar estatísticas atualizadas e informações detalhadas, auxiliando na compreensão e na tomada de decisões informadas sobre a pandemia.
+No frontend, participei ativamente da criação e dos ajustes das telas, garantindo uma interface intuitiva e amigável para os usuários. Desenvolvi a lógica das telas, assegurando que as funcionalidades do sistema fossem implementadas de forma coerente e eficaz. Além disso, contribuí para a configuração dos controllers, garantindo a integração adequada entre o frontend e o backend do sistema.
+
 
 ## Aprendizados Efetivos
 
@@ -82,6 +83,10 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
     <tr>
       <th width="300px">Habilidade</th>
       <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Organização</td>
+      <td>Precisei me organizar e planejar para poder ser eficaz no desenvolvimento do projeto</td>
     </tr>
     <tr>
       <td>Comunicação</td>
