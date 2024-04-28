@@ -95,6 +95,10 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <th width="300px">Descrição</th>
     </tr>
     <tr>
+      <td>Organização</td>
+      <td>Precisei me organizar e planejar para poder ser eficaz no desenvolvimento do projeto</td>
+    </tr>
+    <tr>
       <td>Comunicação</td>
       <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
     </tr>
@@ -106,13 +110,8 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <td>Trabalho em Equipe</td>
       <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
     </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
+    </tr>
 </table>
-
-#### Soft Skills
-
-- Colaboração em equipe
-- Comunicação interpessoal
-- Pensamento crítico
-- Resolução de problemas
-- Gestão do tempo
-
