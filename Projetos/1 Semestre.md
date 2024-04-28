@@ -42,10 +42,9 @@ O aplicativo oferece uma experiência responsiva aos usuários, com Dash Bootstr
 
 Esse aplicativo proporciona uma plataforma completa para visualização e análise dos dados da COVID-19 em São Paulo. Com sua interface interativa e funcionalidades avançadas, os usuários podem explorar estatísticas atualizadas e informações detalhadas, auxiliando na compreensão e na tomada de decisões informadas sobre a pandemia.
 
-
 ## Aprendizados Efetivos 
 
-### Hard Skills
+<h3 align="center"> Hard Skills </h3>
 
 <table align="center">
     <tr>
@@ -58,7 +57,7 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
     </tr>
     <tr>
       <td>Pandas</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Plotly</td>
@@ -74,12 +73,11 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
     </tr>
     <tr>
       <td>GIT</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Entendi</td>
     </tr>
 </table>
 
-
-### Soft Skills
+<h3 align="center"> Soft Skills </h3>
 
 <table align="center">
     <tr>
@@ -99,4 +97,3 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
       <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
     </tr>
 </table>
-
