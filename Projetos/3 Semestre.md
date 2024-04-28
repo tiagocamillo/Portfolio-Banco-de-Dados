@@ -49,30 +49,13 @@ Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
 
 ## Contribuições Pessoais
 
-Fui responsável pela programação do front-end da aplicação, que se consistia em consumir os dados gerados pelo back-end através de API e gerar uma interface para o usuário poder utilizar a aplicação.
+Fui responsável pelo desenvolvimento do front-end do projeto de sistema para importação de dados meteorológicos. Minha principal função consistiu em criar uma interface intuitiva e funcional para os usuários, utilizando os dados fornecidos pelo back-end por meio de APIs.
 
-Por estar focado nesta parte do projeto, fui encarregado, junto com a equipe de front-end, de estudar e desenvolver as telas da aplicação. Com isso, foram definidos os layouts de cada tela, desenvolvidos gráficos, tabelas e filtros dinâmicos, todos utilizando os dados consumidos do back-end.
+Trabalhando em colaboração com a equipe de front-end, participei ativamente do estudo e desenvolvimento das telas da aplicação. Durante esse processo, concentrei-me na geração de gráficos dinâmicos que exibiam as informações meteorológicas de forma clara e compreensível. Além disso, desenvolvi funcionalidades para exibição de tabelas contendo dados detalhados e implementei filtros dinâmicos para que os usuários pudessem personalizar sua visualização de acordo com suas necessidades.
 
-O desenvolvimento das telas contou com a linguagem de marcação HTML, junto com a estilização em CSS. A parte lógica da aplicação contou com JavaScript, e em algumas situações, a técnica AJAX.
+Para realizar essas tarefas, utilizei linguagens e tecnologias como HTML, CSS e JavaScript. A marcação HTML e a estilização em CSS foram essenciais para a criação de layouts atraentes e responsivos. A parte lógica da aplicação foi desenvolvida principalmente em JavaScript, aproveitando técnicas como AJAX para melhorar a interatividade e a eficiência da aplicação.
 
-Exemplos de etapas do desenvolvimento do projeto:
-
-
-<details>
-<summary>Geração de gráficos</summary>
-</details>
-
-<details>
-<summary>Exibição de gráficos</summary>
-</details>
-
-<details>
-<summary>Geração de Tabelas</summary>
-</details>
-
-<details>
-<summary>Filtros dinâmicos</summary>
-</details>
+Ao focar na geração de gráficos, exibição de tabelas e implementação de filtros dinâmicos, ajudei a criar uma aplicação que permite aos usuários explorar e entender os dados meteorológicos de forma intuitiva e personalizada.
 
 ## Aprendizados Efetivos
 
@@ -93,7 +76,7 @@ Exemplos de etapas do desenvolvimento do projeto:
     </tr>
     <tr>
       <td>Python</td>
-      <td>Entendi</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
       <td>HTML</td>
@@ -126,6 +109,10 @@ Exemplos de etapas do desenvolvimento do projeto:
       <th width="300px">Descrição</th>
     </tr>
     <tr>
+      <td>Organização</td>
+      <td>Precisei me organizar e planejar para poder ser eficaz no desenvolvimento do projeto</td>
+    </tr>
+    <tr>
       <td>Comunicação</td>
       <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
     </tr>
@@ -137,11 +124,8 @@ Exemplos de etapas do desenvolvimento do projeto:
       <td>Trabalho em Equipe</td>
       <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
     </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
+    </tr>
 </table>
-
-#### Soft Skills
-- Aprendizado e o aperfeiçoamento em áreas como a colaboração/trabalho em equipe;
-- Comunicação entre os membros do grupo;
-- Utilização do pensamento crítico; 
-- Capacidade de resolução de problemas; 
-- Gestão do tempo. 
