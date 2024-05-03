@@ -103,3 +103,15 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
       <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
     </tr>
 </table>
+
+---
+
+## Outros Projetos:
+
+[2º Semestre - Dom Rock - Sistema de Gerenciamento de Clientes](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
+
+[3º Semestre - Iacit - Automação e Dashboard de Dados Meteorológicos](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/3%20Semestre.md)
+
+[4º Semestre - Embraer - Controle de Configuração de Aeronaves](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
+
+[5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)

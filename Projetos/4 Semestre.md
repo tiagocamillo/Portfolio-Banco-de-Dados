@@ -117,3 +117,14 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+---
+
+## Outros Projetos:
+
+[1º Semestre - SPANEL - Sistema de Automação e Visualização de Dados da COVID-19 ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
+
+[2º Semestre - Dom Rock - Sistema de Gerenciamento de Clientes](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
+
+[3º Semestre - Iacit - Automação e Dashboard de Dados Meteorológicos](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/3%20Semestre.md)
+
+[5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)

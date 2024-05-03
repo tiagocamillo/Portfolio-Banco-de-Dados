@@ -15,7 +15,7 @@ Oracle Brasil
 
 ## Visão do Projeto
 
-O desafio foi definido como criar uma plataforma online que permita os proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva, sendo um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gestão de pessoal, fornecedores e insumos.
+O desafio definido foi para criar uma plataforma online que permita os proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva, sendo um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gestão de pessoal, fornecedores e insumos.
 
 A solução desenvolvida pela equipe foi um sistema web que permite a gestão de insumos e funcionários, além de proporcionar a visualização dos dados processados para que o empresário possa gerenciar suas vendas, estoques, equipe de trabalho e projetar suas ações futuras.
 
@@ -143,3 +143,14 @@ Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. De
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+---
+
+## Outros Projetos:
+
+[1º Semestre - SPANEL - Sistema de Automação e Visualização de Dados da COVID-19 ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
+
+[2º Semestre - Dom Rock - Sistema de Gerenciamento de Clientes](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
+
+[3º Semestre - Iacit - Automação e Dashboard de Dados Meteorológicos](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/3%20Semestre.md)
+
+[4º Semestre - Embraer - Controle de Configuração de Aeronaves](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
