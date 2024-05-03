@@ -42,28 +42,34 @@ O Oracle Autonomous Database é um serviço de banco de dados de documentos em n
 
 Para saber mais, acesse: [Oracle Autonomous Database](https://www.oracle.com/autonomous-database/)
 
-
-## Contribuições Pessoais
-
-Durante o projeto, tive a oportunidade de atuar na posição de Scrum Master (Metodologia Scrum) da equipe. Fui responsável pela liderança do time, pude gerenciar as atividades a se fazerem durante as sprints, desenvolvi a documentação do projeto, automatizei processos de versionamento de código, e também atuei como um facilitador, auxiliando a buscar soluções em dificuldades encontradas no desenvolvimento, como também na organização de reuniões entre os membros para direcionamento das atividades, resolução de conflitos e outros motivos.
-
-No período do projeto, para efetuar essas ações, utilizei as ferramentas:
-
 ### GitHub
 
-O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o sistema de controle de versão Git. Ele permite que os desenvolvedores armazenem, compartilhem e colaborem em projetos de software por meio de repositórios, facilitando o gerenciamento e a distribuição de código.
+O GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite que desenvolvedores armazenem, gerenciem e compartilhem projetos de software usando o sistema de controle de versão Git. No projeto, foi utilizado para armazenar o código-fonte desenvolvido em repositórios.
 
-Dentro da plataforma, fiz a conexão entre os repositórios de código-fonte do projeto com o quadro de tarefas da equipe de desenvolvimento (Jira Software). Então, todo commit deveria possuir o código da tarefa (Ex: FA-10), sendo assim, torna possível verificar a qual tarefa cada commit feito no projeto se refere.
+Para saber mais, acesse: [GitHub](https://github.com)
 
 ### Jira Software (Atlassian)
 
 O Jira Software, da Atlassian, é uma ferramenta popular para gerenciamento de projetos ágeis, como Kanban e Scrum. Com ele, equipes podem criar quadros Kanban para visualizar e gerenciar o fluxo de trabalho, e utilizar recursos como quadros Scrum para planejamento de sprint, acompanhamento de tarefas e colaboração eficiente.
 
-No Jira, foi utilizada a função de quadro Kanban para a gestão de tarefas das sprint da equipe de desenvolvimento do projeto. Cada integrante possui suas respectivas tarefas e, ao acessá-las, é possível verificar tanto os commits que foram feitos com o código da tarefa que se encontram no GitHub, como também o requisito funcional que essa tarefa se refere (Confluence).
+Para saber mais, acesse: [Jira Software](https://www.atlassian.com/software/jira)
 
 ### Confluence (Atlassian)
 
 O Confluence, desenvolvido pela Atlassian, é uma plataforma de colaboração que permite às equipes criar, compartilhar e colaborar em documentos, páginas wiki e outros conteúdos. Ele é projetado para facilitar a comunicação e o trabalho em equipe, oferecendo recursos como edição colaborativa em tempo real, organização intuitiva de informações e integração com outras ferramentas da Atlassian, como Jira.
+
+Para saber mais, acesse: [Confluence](https://www.atlassian.com/software/confluence)
+
+
+## Contribuições Pessoais
+
+Durante o projeto, tive a oportunidade de atuar na posição de Scrum Master (Metodologia Scrum) da equipe. Fui responsável pela liderança do time, pude gerenciar as atividades a se fazerem durante as sprints, desenvolvi a documentação do projeto, automatizei processos de versionamento de código, e também atuei como um facilitador, auxiliando a buscar soluções em dificuldades encontradas no desenvolvimento, como também na organização de reuniões entre os membros para direcionamento das atividades, resolução de conflitos e outros motivos.
+
+No período do projeto, para efetuar essas ações, utilizei as ferramentas: GitHub, Jira Software (Atlassian) e Confluence (Atlassian).
+
+Dentro do GitHub, fiz a conexão entre os repositórios de código-fonte do projeto com o quadro de tarefas da equipe de desenvolvimento (Jira Software). Então, todo commit deveria possuir o código da tarefa (Ex: FA-10), sendo assim, torna possível verificar a qual tarefa cada commit feito no projeto se refere.
+
+No Jira, foi utilizada a função de quadro Kanban para a gestão de tarefas das sprint da equipe de desenvolvimento do projeto. Cada integrante possui suas respectivas tarefas e, ao acessá-las, é possível verificar tanto os commits que foram feitos com o código da tarefa que se encontram no GitHub, como também o requisito funcional que essa tarefa se refere (Confluence).
 
 Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. Dentro dele, é possível verificar todos requisitos que o mesmo possui e, em cada requisito, é possível visualizar cada tarefa (Jira) que foi desenvolvida para entregar esse requisito.
 
