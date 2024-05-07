@@ -1,4 +1,4 @@
-# Projeto 5: 2º Semestre de 2023 
+# Projeto 6: 1º Semestre de 2024 
 
 <img src="https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentacao/Team/pandalyzeheader.jpg" width="60%" height="55%">
 
@@ -103,6 +103,7 @@ Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+
 ---
 
 ## Outros Projetos:
