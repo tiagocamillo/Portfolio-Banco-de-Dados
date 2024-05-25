@@ -15,7 +15,9 @@ Imagem
 
 ## Visão do Projeto
 
+O desafio do projeto foi definido em desenvolver uma plataforma sofisticada de análise de avaliações online que faz o compreendimento de sentimento do cliente. O objetivo é fornecer insights acionáveis para impulsionar a inovação e o crescimento, inaugurando uma nova era de envolvimento do cliente baseado em dados.
 
+Como solução dessa proposta, a equipe desenvolveu para a empresa Imagem, uma aplicação web que compreende profundamente o sentimento do cliente, fazendo integrações entre tecnologias e disponibilizando os dados processados em uma plataforma online. Essa plataforma apresenta mapas, gráficos, tabelas, e outras formas de apresentação dos dados para que o usuário possa fazer comparações e gerar insights que auxiliem na tomada de decisões da empresa.
 
 <img src="./Midia/.gif" width="60%" height="55%">
 
@@ -63,6 +65,10 @@ Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
     </tr>
     <tr>
       <td>JavaScript</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+    <tr>
+      <td>React</td>
       <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
