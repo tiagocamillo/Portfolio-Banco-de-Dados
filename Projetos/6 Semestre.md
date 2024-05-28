@@ -42,8 +42,20 @@ O SGDB (Sistema Gerenciador de Banco de Dados) PostgreSQL foi utilizado para o a
 
 Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
 
+### MongoDB
+
+MongoDB é um sistema de banco de dados NoSQL orientado a documentos, que armazena dados em formatos flexíveis e semiesquemáticos chamados BSON (uma variação do JSON). Para a aplicação, o MongoDB foi utilizado para o armazendamento de log das ações feitas no sistema, e para a lista de exclusão de usuários.
+
+Para saber mais, acesse: [MongoDB](https://www.mongodb.com)
+
 
 ## Contribuições Pessoais
+
+Para esse projeto, desenvolvi a lógica e a interface da tela de Cadastro de Usuário, assegurando uma experiência intuitiva e segura para novos usuários. Criei formulários de cadastro, validei dados e integrei com o backend, estabelecendo uma base sólida para a gestão de usuários da plataforma.
+
+Também fui responsável pelo desenvolvimento da Tela de Dashboard, incluindo a implementação de gráficos interativos e a criação de mapa de calor com a API do Google. Adicionei filtros por país e estado, permitindo personalizações das análises. Esses recursos permitiram aos usuários obter insights para tomadas de decisões.
+
+Além disso, desenvolvi classificadores na tela de DataSource para categorizar os resultados gerados pela IA, facilitando a interpretação dos dados. Criei a função de exportação dos dados em arquivo CSV, permitindo o fácil salvamento e compartilhamento dos insights gerados. Por fim, fiz ajustes de design em várias telas da aplicação, auxiliando na usabilidade e estética da plataforma, garantindo uma boa experiência dos usuários.
 
 
 ## Aprendizados Efetivos
@@ -72,11 +84,15 @@ Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
       <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
-      <td>React</td>
+      <td>MUI</td>
       <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
       <td>PostgreSQL</td>
+      <td>Sei fazer com Ajuda</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
       <td>Sei fazer com Ajuda</td>
     </tr>
 </table>
