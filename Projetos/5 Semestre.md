@@ -149,6 +149,7 @@ Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. De
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+
 ---
 
 ## Outros Projetos:
@@ -161,4 +162,4 @@ Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. De
 
 [4º Semestre - Embraer - Controle de Configuração de Aeronaves](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
 
-[6º Semestre - Imagem - ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)
+[6º Semestre - Imagem - Sistema de Análise de Sentimento por Geolocalização](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)

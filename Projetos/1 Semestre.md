@@ -116,4 +116,4 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
 
 [5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
 
-[6º Semestre - Imagem - ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)
+[6º Semestre - Imagem - Sistema de Análise de Sentimento por Geolocalização](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)

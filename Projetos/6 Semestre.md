@@ -1,6 +1,6 @@
 # Projeto 6: 1º Semestre de 2024 
 
-<img src="https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentacao/Team/pandalyzeheader.jpg" width="60%" height="55%">
+<img src="https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem/blob/main/Documentation/Team/pandalyzeheader.jpg" width="60%" height="55%">
 
 
 ## Reposiório do Projeto

@@ -115,4 +115,4 @@ No frontend, participei ativamente da criação e dos ajustes das telas, garanti
 
 [5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
 
-[6º Semestre - Imagem - ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)
+[6º Semestre - Imagem - Sistema de Análise de Sentimento por Geolocalização](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)
