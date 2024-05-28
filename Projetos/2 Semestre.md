@@ -103,6 +103,7 @@ No frontend, participei ativamente da criação e dos ajustes das telas, garanti
       <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
     </tr>
 </table>
+
 ---
 
 ## Outros Projetos:

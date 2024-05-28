@@ -117,6 +117,7 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+
 ---
 
 ## Outros Projetos:

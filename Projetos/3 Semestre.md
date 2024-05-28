@@ -133,6 +133,7 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+
 ---
 
 ## Outros Projetos:
