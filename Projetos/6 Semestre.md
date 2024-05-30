@@ -19,9 +19,7 @@ O desafio do projeto foi definido em desenvolver uma plataforma sofisticada de a
 
 Como solução dessa proposta, a equipe desenvolveu para a empresa Imagem, uma aplicação web que compreende profundamente o sentimento do cliente, fazendo integrações entre tecnologias e disponibilizando os dados processados em uma plataforma online. Essa plataforma apresenta mapas, gráficos, tabelas, e outras formas de apresentação dos dados para que o usuário possa fazer comparações e gerar insights que auxiliem na tomada de decisões da empresa.
 
-<!-- <img src="./Midia/.gif" width="60%" height="55%"> -->
-
-<GIF da aplicação 6º Semestre>
+<img src="./Midia/imagem_apresentacao.gif" width="60%" height="55%">
 
 
 ## Tecnologias Adotadas na Solução
