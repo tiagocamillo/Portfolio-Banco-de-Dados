@@ -81,7 +81,7 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
     </tr>
     <tr>
       <td>Python</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
     <tr>
       <td>HTML</td>
@@ -101,7 +101,7 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
     </tr>
     <tr>
       <td>GIT</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
 </table>
 
@@ -133,3 +133,17 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
 </table>
+
+---
+
+## Outros Projetos:
+
+[1º Semestre - SPANEL - Sistema de Automação e Visualização de Dados da COVID-19 ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
+
+[2º Semestre - Dom Rock - Sistema de Gerenciamento de Clientes](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
+
+[4º Semestre - Embraer - Controle de Configuração de Aeronaves](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
+
+[5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
+
+[6º Semestre - Imagem - Sistema de Análise de Sentimento por Geolocalização](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)

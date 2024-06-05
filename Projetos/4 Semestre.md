@@ -85,7 +85,7 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
     </tr>
     <tr>
       <td>GIT</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
 </table>
 
@@ -116,4 +116,20 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <td>Proatividade</td>
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
+    <td>Aprendizado Contínuo</td>
+      <td>Precisei aprender novas tecnologias durante o desenvolvimento do projeto</td>
 </table>
+
+---
+
+## Outros Projetos:
+
+[1º Semestre - SPANEL - Sistema de Automação e Visualização de Dados da COVID-19 ](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/1%20Semestre.md)
+
+[2º Semestre - Dom Rock - Sistema de Gerenciamento de Clientes](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/2%20Semestre.md)
+
+[3º Semestre - Iacit - Automação e Dashboard de Dados Meteorológicos](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/3%20Semestre.md)
+
+[5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
+
+[6º Semestre - Imagem - Sistema de Análise de Sentimento por Geolocalização](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)

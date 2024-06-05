@@ -37,3 +37,5 @@ Abaixo estão listados os projetos desenvolvidos durante a graduação, detalhan
 [4º Semestre - Embraer - Controle de Configuração de Aeronaves](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/4%20Semestre.md)
 
 [5º Semestre - Oracle - Análise e Gestão de Restaurante](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/5%20Semestre.md)
+
+[6º Semestre - Imagem - Sistema de Análise de Sentimento por Geolocalização](https://github.com/tiagocamillo/Portfolio-Banco-de-Dados/blob/develop/Projetos/6%20Semestre.md)
