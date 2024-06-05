@@ -70,7 +70,7 @@ No frontend, participei ativamente da criação e dos ajustes das telas, garanti
       <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
-      <td>SQL Serve Azure Cloud</td>
+      <td>SQL Server Azure Cloud</td>
       <td>Entendi</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ No frontend, participei ativamente da criação e dos ajustes das telas, garanti
     </tr>
     <tr>
       <td>Organização</td>
-      <td>Precisei me organizar e planejar para poder ser eficaz no desenvolvimento do projeto</td>
+      <td>Precisei me organizar e planejar para ser eficaz no desenvolvimento do projeto</td>
     </tr>
     <tr>
       <td>Comunicação</td>
@@ -100,7 +100,7 @@ No frontend, participei ativamente da criação e dos ajustes das telas, garanti
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei adaptar a forma de trabalho para colaborar com a equipe no desenvolvimento do projeto</td>
     </tr>
 </table>
 

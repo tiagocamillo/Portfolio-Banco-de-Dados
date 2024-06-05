@@ -113,11 +113,11 @@ Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. De
     </tr>
     <tr>
       <td>Confluence</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
     <tr>
       <td>GIT</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
 </table>
 
@@ -127,6 +127,10 @@ Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. De
     <tr>
       <th width="300px">Habilidade</th>
       <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Liderança</td>
+      <td>Precisei conduzir e auxiliar a equipe com detalhes do projeto para garantir o progresso do desenvolvimento</td>
     </tr>
     <tr>
       <td>Organização</td>

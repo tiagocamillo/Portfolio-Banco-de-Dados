@@ -100,7 +100,11 @@ Esse aplicativo proporciona uma plataforma completa para visualização e análi
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei adaptar a forma de trabalho para colaborar com a equipe no desenvolvimento do projeto</td>
+    </tr>
+    <tr>
+      <td>Aprendizado Contínuo</td>
+      <td>Precisei aprender novas tecnologias durante o desenvolvimento do projeto</td>
     </tr>
 </table>
 

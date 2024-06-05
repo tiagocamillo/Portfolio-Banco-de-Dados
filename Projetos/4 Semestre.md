@@ -85,7 +85,7 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
     </tr>
     <tr>
       <td>GIT</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
 </table>
 
@@ -116,6 +116,8 @@ Uma das minhas responsabilidades foi o desenvolvimento das funcionalidades de bu
       <td>Proatividade</td>
       <td>Precisei tomar atitudes para conseguir concluir o desenvolvimento do projeto</td>
     </tr>
+    <td>Aprendizado Contínuo</td>
+      <td>Precisei aprender novas tecnologias durante o desenvolvimento do projeto</td>
 </table>
 
 ---

@@ -81,7 +81,7 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
     </tr>
     <tr>
       <td>Python</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
     <tr>
       <td>HTML</td>
@@ -101,7 +101,7 @@ Ao focar na geração de gráficos, exibição de tabelas e implementação de f
     </tr>
     <tr>
       <td>GIT</td>
-      <td>Sei fazer com Ajuda</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
 </table>
 

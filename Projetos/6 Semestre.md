@@ -95,6 +95,10 @@ Além disso, desenvolvi classificadores na tela de DataSource para categorizar o
       <td>MongoDB</td>
       <td>Sei fazer com Ajuda</td>
     </tr>
+    <tr>
+      <td>GIT</td>
+      <td>Sei fazer com Autonomia</td>
+    </tr>
 </table>
 
 <h3 align="center"> Soft Skills </h3>
