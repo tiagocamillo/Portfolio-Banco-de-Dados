@@ -44,14 +44,14 @@ Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
 
 ### MongoDB
 
-MongoDB é um sistema de banco de dados NoSQL orientado a documentos, que armazena dados em formatos flexíveis e semiesquemáticos chamados BSON (uma variação do JSON). Para a aplicação, o MongoDB foi utilizado para o armazendamento de log das ações feitas no sistema, e para a lista de exclusão de usuários.
+MongoDB é um sistema de banco de dados NoSQL orientado a documentos, que armazena dados em formatos flexíveis e semiesquemáticos chamados BSON (uma variação do JSON). Para a aplicação, o MongoDB foi utilizado para o armazenamento de log das ações feitas no sistema, e para a lista de exclusão de usuários.
 
 Para saber mais, acesse: [MongoDB](https://www.mongodb.com)
 
 
 ## Contribuições Pessoais
 
-Para o desenvolvimento deste projeto, desenvolveu-se a lógica e a interface da tela de Cadastro de Usuário, assegurando uma experiência intuitiva e segura para novos usuários. Criei formulários de cadastro, validei dados e integrei com o backend, estabelecendo uma base sólida para a gestão de usuários da plataforma.
+Para o desenvolvimento deste projeto, desenvolveu-se a lógica e a interface da tela de Cadastro de Usuário, assegurando uma experiência intuitiva e segura para novos usuários. Criei formulários de cadastro, validei dados e integrei com o back-end, estabelecendo uma base sólida para a gestão de usuários da plataforma.
 
 Também fui responsável pelo desenvolvimento da Tela de Dashboard, incluindo a implementação de gráficos interativos e a criação de mapa de calor com a API do Google. Adicionei filtros por país e estado, permitindo personalizações das análises. Esses recursos permitiram aos usuários obterem insights para tomadas de decisões.
 

@@ -6,7 +6,7 @@ Trabalho de Graduação na modalidade Portfólio desenvolvido a partir de Projet
 
 ## Sobre Mim
 
-Sou Tiago Camillo, tenho 20 anos e atualmente estou cursando o 6º semestre como estudante de Banco de Dados pela FATEC São José dos Campos - Prof. Jessen Vidal. 
+Sou Tiago Camillo, tenho 21 anos e atualmente estou cursando o 6º semestre como estudante de Banco de Dados pela FATEC São José dos Campos - Prof. Jessen Vidal. 
 
 Possuo formação como Técnico em Informática pelo Colégios Univap - Unidade Centro (São José dos Campos) o qual conclui em 2020 e, após isso, iniciei minha graduação como Tecnologo no 2º Semestre de 2021.
 
