@@ -45,11 +45,11 @@ Para saber mais, acesse: [SQL Server Nuvem Azure](https://azure.microsoft.com/pt
 
 ## Contribuições Pessoais
 
-Nesse projeto pude colaborar com a equipe desenvolvendo tanto para funções backend, como também para frontend. Ao desenvolver esse sistema de gerenciamento de ativação de clientes, utilizei a linguagem Java para questões de backend do projeto, sendo elas: lógica do sistema, mapeamento de tabelas, conexão com a base de dados. E para o frontend, foi utilizada a tecnologia JavaFX, onde foram feitas as telas do sistema, com suas lógicas e designs.
+Nesse projeto pude colaborar com a equipe desenvolvendo tanto para funções back-end, como também para front-end. Ao desenvolver esse sistema de gerenciamento de ativação de clientes, utilizei a linguagem Java para questões de back-end do projeto, sendo elas: lógica do sistema, mapeamento de tabelas, conexão com a base de dados. E para o front-end, foi utilizada a tecnologia JavaFX, onde foram feitas as telas do sistema, com suas lógicas e designs.
 
-No âmbito do desenvolvimento backend, colaborei na implementação da conexão DAO (Data Access Object), contribuindo para a estruturação e organização do acesso aos dados do sistema. Além disso, auxiliei na configuração e elaboração da lógica do sistema, garantindo uma implementação coesa e eficiente das funcionalidades. Também participei ativamente da configuração de DTO (Data Transfer Object), facilitando a comunicação e a transferência de dados entre as diferentes camadas da aplicação.
+No âmbito do desenvolvimento back-end, colaborei na implementação da conexão DAO (Data Access Object), contribuindo para a estruturação e organização do acesso aos dados do sistema. Além disso, auxiliei na configuração e elaboração da lógica do sistema, garantindo uma implementação coesa e eficiente das funcionalidades. Também participei ativamente da configuração de DTO (Data Transfer Object), facilitando a comunicação e a transferência de dados entre as diferentes camadas da aplicação.
 
-No frontend, participei ativamente da criação e dos ajustes das telas, garantindo uma interface intuitiva e amigável para os usuários. Desenvolvi a lógica das telas, assegurando que as funcionalidades do sistema fossem implementadas de forma coerente e eficaz. Além disso, contribuí para a configuração dos controllers, garantindo a integração adequada entre o frontend e o backend do sistema.
+No front-end, participei ativamente da criação e dos ajustes das telas, garantindo uma interface intuitiva e amigável para os usuários. Desenvolvi a lógica das telas, assegurando que as funcionalidades do sistema fossem implementadas de forma coerente e eficaz. Além disso, contribuí para a configuração dos controllers, garantindo a integração adequada entre o front-end e o back-end do sistema.
 
 
 ## Aprendizados Efetivos

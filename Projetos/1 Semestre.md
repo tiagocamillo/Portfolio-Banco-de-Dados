@@ -34,7 +34,7 @@ Para saber mais, acesse: [Python](https://www.python.org)
 
 ### Telegram Bots
 
-A ferramenta Telegram Bots foi utilizada para o desenvolvimento de um bot na própria plataforma do Telegram que ficou responsável por fornecer uma forma prática de visualição dos dados já tratados pelo sistema.
+A ferramenta Telegram Bots foi utilizada para o desenvolvimento de um bot na própria plataforma do Telegram que ficou responsável por fornecer uma forma prática de visualização dos dados já tratados pelo sistema.
 
 Para saber mais, acesse: [Telegram Bots](https://core.telegram.org/bots)
 

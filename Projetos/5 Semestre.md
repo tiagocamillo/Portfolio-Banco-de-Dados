@@ -71,7 +71,7 @@ Dentro do GitHub, fiz a conexão entre os repositórios de código-fonte do proj
 
 No Jira, foi utilizada a função de quadro Kanban para a gestão de tarefas das sprint da equipe de desenvolvimento do projeto. Cada integrante possui suas respectivas tarefas e, ao acessá-las, é possível verificar tanto os commits que foram feitos com o código da tarefa que se encontram no GitHub, como também o requisito funcional que essa tarefa se refere (Confluence).
 
-Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. Dentro dele, é possível verificar todos requisitos que o mesmo possui e, em cada requisito, é possível visualizar cada tarefa (Jira) que foi desenvolvida para entregar esse requisito.
+Com o Confluence, foi desenvolvida a documentação de requisitos do projeto. Dentro dele, é possível verificar todos os requisitos que o mesmo possui e, em cada requisito, é possível visualizar cada tarefa (Jira) que foi desenvolvida para entregar esse requisito.
 
 
 ## Aprendizados Efetivos
